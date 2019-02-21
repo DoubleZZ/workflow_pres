@@ -11,3 +11,10 @@ def features_v2():
 	bateau = 500
 	radeau = True
 
+
+def features_v3():
+	""" Features pour les version 3 et supérieurs """
+
+	chaussette = "gauche"
+	chaussure = "droite"
+
