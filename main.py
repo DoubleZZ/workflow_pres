@@ -13,3 +13,8 @@ def features_v2():
 	bateau = 500
 	radeau = True
 
+
+def nouveau_fonction_v2():
+	"""nouveau bouton menu"""
+
+	#nouvelle feature v2
