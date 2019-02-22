@@ -27,3 +27,10 @@ def features_v3():
 	chaussette = "gauche"
 	chaussure = "droite"
 
+
+def nouveau_fonction_v3():
+	"""nouveau bouton menu"""
+
+	#nouvelle feature v3
+
+	#nouvelle modif pour featureV3/nouveau bouton
