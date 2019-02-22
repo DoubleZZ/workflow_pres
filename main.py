@@ -27,3 +27,5 @@ def features_v3():
 	chaussette = "gauche"
 	chaussure = "droite"
 
+#quelque chose
+
